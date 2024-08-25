@@ -1,3 +1,4 @@
+[![Open in Jupyter](https://img.shields.io/badge/Open%20in-Jupyter-blue.svg?logo=jupyter)](https://github.com/Ender17133/Profitable_App_Profiles/blob/main/Profitable_App_Profiles.ipynb)
 # Profitable App Profiles for the App Store and Google Play Markets
 (an imaginary situation for the project as if I am working in a company). 
 
